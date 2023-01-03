@@ -66,6 +66,8 @@ After you're finished please remove all the comments and instructions!
 
 **Hello Rails Front-End** is a React front-end connected to a Rails API back-end to display a random message. This is the Front end react part of the project.
 
+back-end of app:  <a name="about-project"></a>
+[Github-repo](https://github.com/wandergithub/hello-rails-back-end)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
